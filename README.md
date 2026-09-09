@@ -1,4 +1,4 @@
-# COMP484 HW2
+# CIT384 HW2
 
 GitHub Pages site:
 [Daniel Isayan](https://killerpigwolf.github.io/comp484-hw2/)
