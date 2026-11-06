@@ -1,7 +1,8 @@
 # CIT384 HW2
 
 GitHub Pages site:
-[Daniel Isayan](https://killerpigwolf.github.io/comp484-hw2/)
+[[Daniel Isayan](https://killerpigwolf.github.io/comp484-hw2/)](https://csun-orm.github.io/comp484-hw2/
+)
 
 This project demonstrates my awesome work in HTML
 
