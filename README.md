@@ -1,10 +1,13 @@
-# CIT384 HW2
+# COMP484 HW2
 
-GitHub Pages site:
-[[Daniel Isayan](https://killerpigwolf.github.io/comp484-hw2/)](https://csun-orm.github.io/comp484-hw2/
-)
+## Semantic Tag Diagram
+
+[![My COMP484 HW2 website semantic tag diagram](images/semantic-tag-diagram.png)](images/semantic-tag-diagram.html)
+
+[Open the interactive semantic tag diagram](https://killerpigwolf.github.io/comp484-hw2/images/semantic-tag-diagram.html)
+
+## Live Website
+
+[Open the COMP484 HW2 website](https://killerpigwolf.github.io/comp484-hw2/)
 
 This project demonstrates my awesome work in HTML
-
-Semantic tag diagram (lab step 1d):
-![Semantic tag structure of structure.html](images/semantic-tag-diagram.png)
